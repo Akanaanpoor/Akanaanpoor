@@ -37,7 +37,6 @@ I'm a backend engineer with 5+ years of experience building services in C# and A
 ![Dapper](https://img.shields.io/badge/-Dapper-2d2d2d?style=flat-square)
 ![MediatR](https://img.shields.io/badge/-MediatR-2d2d2d?style=flat-square)
 ![SignalR](https://img.shields.io/badge/-SignalR-2d2d2d?style=flat-square)
-![Blazor](https://img.shields.io/badge/-Blazor-2d2d2d?style=flat-square&logo=blazor&logoColor=512BD4)
  
 **Architecture & System Design**
 ![DDD](https://img.shields.io/badge/-Domain--Driven%20Design-2d2d2d?style=flat-square)
@@ -80,7 +79,7 @@ More on the full case studies (aviation systems, IoT monitoring platforms, and a
  
 ### 📫 Let's Connect
  
-- ✉️ **Email:** [aref.kanaanpoor@gmail.com](mailto:aref.kanaanpoor@gmail.com)
+- ✉️ **Email:** [aref.kanaanpour@gmail.com](mailto:aref.kanaanpour@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/arefkanaanpour](https://ir.linkedin.com/in/arefkanaanpour)
 - 💬 **Telegram:** [@Arefkp](https://t.me/Arefkp)
 - 🌐 **Portfolio:** [akanaanpoor.github.io](https://akanaanpoor.github.io/)
